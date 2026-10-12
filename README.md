@@ -60,12 +60,14 @@ The software architecture was developed in Python:
 
 An initial attempt was made using YOLOv8 Small, but due to inference latency on edge hardware, the final implementation used a compact **YOLOv8 Classification** approach to ensure real-time responsiveness.
 
----![Uploading image.png…]()
-
 
 ## Control Strategy
 
 The sorting pipeline uses a synchronized decision-and-trigger flow:
+
+<img width="928" height="475" alt="image" src="https://github.com/user-attachments/assets/9634963a-c3fb-48a8-8f95-03d6da2ef0e9" />
+
+*Figure 3 — Flowchart of the automated vision-based sorting process*
 
 1. **Vision Inference:** The camera captures frames and outputs a plastic class with a confidence score.
 2. **Confidence Filter:** If confidence exceeds **80%**, the label is added to a FIFO queue; otherwise, it is ignored (*unknown*).
@@ -75,6 +77,14 @@ The sorting pipeline uses a synchronized decision-and-trigger flow:
 ---
 
 ## Results
+
+<img width="770" height="433" alt="image" src="https://github.com/user-attachments/assets/fef7e2e7-afaf-44ca-98b4-b5e87762e1b7" />
+
+*Figure 4 — PET detection*
+
+<img width="714" height="402" alt="image" src="https://github.com/user-attachments/assets/e06eda81-1cb4-443e-826f-4e744991cce5" />
+
+*Figure 5 — PP detection*
 
 The prototype successfully validated the complete vision-to-actuation chain:
 
