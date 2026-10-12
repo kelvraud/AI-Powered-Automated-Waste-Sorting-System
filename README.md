@@ -5,7 +5,7 @@ An embedded computer vision prototype designed to automatically identify, classi
 | | |
 | :--- | :--- |
 | **Status** | Completed — Embedded hardware prototype and local inference validated |
-| **Context** | Academic — Final Year R&D Project, ENSEA, 2026 |
+| **Context** | Academic — Project Semester, ENSEA, 2026 |
 | **Team** | Kelvin Raud, Artsrun Sargsyan |
 | **My contribution** | Embedded architecture, computer vision pipeline (OpenCV/YOLOv8), Python control logic, ultrasonic synchronization, and hardware prototype integration |
 | **Evidence** | [Report (FR, PDF)](./TRI_DES_DECHETS_RAPPORT_SARSGYAN_RAUD.pdf) · photos below |
@@ -29,8 +29,8 @@ The system needed to:
 
 The project used a Raspberry Pi 5 core coupled with custom actuation and sensing hardware:
 
-![Plastic Sorting Prototype Setup](./images/prototype_setup.jpg)
-*Figure 1 — Automated Plastic Sorting System Prototype*
+<img width="428" height="570" alt="image" src="https://github.com/user-attachments/assets/0a1f8398-fb2f-451b-a238-ac59bb4456a7" />
+*Figure 2 — Automated Plastic Sorting System Prototype*
 
 ---
 
@@ -55,7 +55,8 @@ The software architecture was developed in Python:
 
 An initial attempt was made using YOLOv8 Small, but due to inference latency on edge hardware, the final implementation used a compact **YOLOv8 Classification** approach to ensure real-time responsiveness.
 
----
+---![Uploading image.png…]()
+
 
 ## Control Strategy
 
