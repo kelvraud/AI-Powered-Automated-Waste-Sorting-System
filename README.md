@@ -29,7 +29,12 @@ The system needed to:
 
 The project used a Raspberry Pi 5 core coupled with custom actuation and sensing hardware:
 
+<img width="580" height="679" alt="image" src="https://github.com/user-attachments/assets/4c5f2af5-2904-40be-8f05-888f588823eb" />
+
+*Figure 1 — Schematic of the Automated Plastic Sorting System Prototype*
+
 <img width="428" height="570" alt="image" src="https://github.com/user-attachments/assets/0a1f8398-fb2f-451b-a238-ac59bb4456a7" />
+
 *Figure 2 — Automated Plastic Sorting System Prototype*
 
 ---
