@@ -80,7 +80,7 @@ The sorting pipeline uses a synchronized decision-and-trigger flow:
 
 <img width="770" height="433" alt="image" src="https://github.com/user-attachments/assets/fef7e2e7-afaf-44ca-98b4-b5e87762e1b7" />
 
-*Figure 4 — PET detection - Bottle of water *
+*Figure 4 — PET detection - Bottle of juice *
 
 <img width="1920" height="1080" alt="20260116_11h19m15s_grim" src="https://github.com/user-attachments/assets/93e37b16-25f9-46e5-82bb-28108c65fa33" />
 
