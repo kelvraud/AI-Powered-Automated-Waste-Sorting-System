@@ -80,19 +80,19 @@ The sorting pipeline uses a synchronized decision-and-trigger flow:
 
 <img width="770" height="433" alt="image" src="https://github.com/user-attachments/assets/fef7e2e7-afaf-44ca-98b4-b5e87762e1b7" />
 
-*Figure 4 — PET detection - Bottle of juice *
+*Figure 4 — PET detection - Bottle of juice*
 
 <img width="1920" height="1080" alt="20260116_11h19m15s_grim" src="https://github.com/user-attachments/assets/93e37b16-25f9-46e5-82bb-28108c65fa33" />
 
-*Figure 5 — HDPE detection - Detergent bottle *
+*Figure 5 — HDPE detection - Detergent bottle*
 
 <img width="1920" height="1080" alt="20260116_11h19m34s_grim" src="https://github.com/user-attachments/assets/b1494c94-5f65-4c75-8858-d5b8e4f71c2d" />
 
-*Figure 6 — PP detection - Sandwich plastic box *
+*Figure 6 — PP detection - Sandwich plastic box*
 
 <img width="1920" height="1080" alt="20260116_11h20m50s_grim" src="https://github.com/user-attachments/assets/2dad8162-e93d-48be-ac03-20ab99467092" />
 
-*Figure 7 — PS detection - Cap *
+*Figure 7 — PS detection - Cap*
 
 The prototype successfully validated the complete vision-to-actuation chain:
 
