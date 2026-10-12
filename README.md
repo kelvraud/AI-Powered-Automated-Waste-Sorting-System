@@ -7,8 +7,8 @@ An embedded computer vision prototype designed to automatically identify, classi
 | **Status** | Completed — Embedded hardware prototype and local inference validated |
 | **Context** | Academic — Project Semester, ENSEA, 2026 |
 | **Team** | Kelvin Raud, Artsrun Sargsyan |
-| **My contribution** | Embedded architecture, computer vision pipeline (OpenCV/YOLOv8), Python control logic, ultrasonic synchronization, and hardware prototype integration |
-| **Evidence** | [Report (FR, PDF)](./TRI_DES_DECHETS_RAPPORT_SARSGYAN_RAUD.pdf) · photos below |
+| **My contribution** | Embedded architecture, computer vision pipeline (OpenCV/YOLOv8), Python control logic, ultrasonic synchronisation and hardware prototype integration |
+| **Evidence** | [Report (FR, PDF)](./TRI_DES_DECHETS_RAPPORT_SARSGYAN_RAUD.pdf) |
 
 ---
 
